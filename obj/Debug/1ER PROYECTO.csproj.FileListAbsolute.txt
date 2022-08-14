@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\CURSO C#\1ER PROYECTO\1ER PROYECTO\bin\Debug\1ER PROYECTO.exe.config
+C:\Users\HP\Desktop\CURSO C#\1ER PROYECTO\1ER PROYECTO\bin\Debug\1ER PROYECTO.exe
+C:\Users\HP\Desktop\CURSO C#\1ER PROYECTO\1ER PROYECTO\bin\Debug\1ER PROYECTO.pdb
+C:\Users\HP\Desktop\CURSO C#\1ER PROYECTO\1ER PROYECTO\obj\Debug\1ER PROYECTO.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\CURSO C#\1ER PROYECTO\1ER PROYECTO\obj\Debug\_1ER_PROYECTO.Form1.resources
+C:\Users\HP\Desktop\CURSO C#\1ER PROYECTO\1ER PROYECTO\obj\Debug\_1ER_PROYECTO.Properties.Resources.resources
+C:\Users\HP\Desktop\CURSO C#\1ER PROYECTO\1ER PROYECTO\obj\Debug\1ER PROYECTO.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\CURSO C#\1ER PROYECTO\1ER PROYECTO\obj\Debug\1ER PROYECTO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CURSO C#\1ER PROYECTO\1ER PROYECTO\obj\Debug\1ER PROYECTO.exe
+C:\Users\HP\Desktop\CURSO C#\1ER PROYECTO\1ER PROYECTO\obj\Debug\1ER PROYECTO.pdb
